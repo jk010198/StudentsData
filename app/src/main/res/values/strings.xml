@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">StudentsData</string>
+
+    <string-array name="CSE">
+        <item>C language</item>
+        <item>Java</item>
+        <item>Data Structure</item>
+    </string-array>
+
+    <string-array name="ECE">
+        <item>Digital Electronics</item>
+        <item>Maths</item>
+        <item>Microprocessor</item>
+    </string-array>
+
+    <string-array name="Mech">
+        <item>Nanotechnology</item>
+        <item>Biometrics</item>
+        <item>Acoustics</item>
+    </string-array>
+
+    <string-array name="Civil">
+        <item>Material science</item>
+        <item>Construction Engineering</item>
+        <item>Hydraulic science</item>
+    </string-array>
+
+    <string-array name="Course_Name">
+        <item>Select Course</item>
+        <item>CSE</item>
+        <item>ECE</item>
+        <item>Mech</item>
+        <item>Civil</item>
+    </string-array>
+    
+</resources>
