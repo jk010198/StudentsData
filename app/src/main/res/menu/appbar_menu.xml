@@ -8,4 +8,10 @@
         app:showAsAction="always"
         />
 
+    <item android:id="@+id/toFragment"
+        android:title="Fragment"
+        android:icon="@drawable/ic_person"
+        app:showAsAction="always"
+        />
+
 </menu>

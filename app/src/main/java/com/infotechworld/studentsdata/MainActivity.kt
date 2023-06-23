@@ -54,6 +54,11 @@ class MainActivity : AppCompatActivity() {
                 startActivity(Intent(this, AddStudentData::class.java))
                 return true
             }
+
+            R.id.toFragment -> {
+                startActivity(Intent(this, NavDemo::class.java))
+                return true
+            }
             else -> super.onOptionsItemSelected(item)
         }
     }
